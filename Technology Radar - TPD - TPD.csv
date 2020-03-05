@@ -18,7 +18,7 @@ Spring Boot,Platforms,Hold,FALSE,<p>SPRINGBOOT + GOOD mature - BAD invasive</p>
 Payara,Platforms,Hold,FALSE,"<p>PAYARA
  + GOOD: Seems least invasive and well supported
  - PAYARA-FAIL: Ear is detected as Ejb not EnterpriseApplication </p>"
-Quarkus,Platforms,Hold,FALSE,"<p>QUARKUS + GOOD: Similar to SpringBoot, Create native app support, DX - BAD Unlikely supports EARs, invasive functional tests, new</p>"
+Quarkus,Platforms,Assess,TRUE,"<p>QUARKUS + GOOD: Similar to SpringBoot, Create native app support, DX - BAD Unlikely supports EARs, invasive functional tests, new</p>"
 QueryDSL,languages-and-frameworks,Trial,TRUE,<p>Allows for the generation of type-safe queries in a syntax similar to SQL</p>
 Docker,Tools,Hold,FALSE,<p>Container platform</p>
 Kubernetes,Tools,Hold,TRUE,"<p>System for automating deployment, scaling, and management of containerized applications</p>"
