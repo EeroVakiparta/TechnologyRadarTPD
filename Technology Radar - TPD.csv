@@ -31,3 +31,5 @@ Make it Painful (Daily),Techniques,Adopted,FALSE,"<p><strong><a href=""https://w
 Adaptive Scrumban,Techniques,Adopted,FALSE,"<p> Leaving intentionally time for frequent and unexpected work items in sprint planning. Like in <strong><a href=""https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrumban"">Scrumban</a></strong></p>"
 Grafana,Tools,Assess,TRUE,"<p> <strong><a href=""https://grafana.com/"">Grafana</a></strong>, not reinventing the wheel for business and IT -reporting and alarming features</p>"
 TimescaleDB,Platforms,Hold,TRUE,"<p> <strong><a href=""https://labs.consol.de/development/2018/10/31/introduction-to-timescale-db.html"">TimescaleDB</a></strong>, please check also flow chart</p>"
+Sourcetree,Tools,Hold,TRUE,"<p> <strong><a href=""https://www.sourcetreeapp.com/"">Sourcetree</a>Not fast enough</strong></p>"
+GitKraken,Tools,Adopted,FALSE,"<p> <strong><a href=""https://www.gitkraken.com/"">GitKraken</a>In use, parallel with GIT bash</strong></p>"
