@@ -13,23 +13,24 @@ PostgresDB,Platforms,Adopted,FALSE,<p>Open source database</p>
 Wildfly,Platforms,Adopted,FALSE,<p>Application server</p>
 SCRUM,Techniques,Adopted,FALSE,<p>SCRUM -- undefined</p>
 Hibernate,Platforms,Adopted,FALSE,<p>ORM tool</p>
-JPA - Criteria API,languages-and-frameworks,Hold,TRUE,"<p>Alternative way for defining JPA queries, which is mainly useful for building dynamic queries</p>"
+JPA - Criteria API,languages-and-frameworks,Hold,FALSE,"<p>Alternative way for defining JPA queries, which is mainly useful for building dynamic queries</p>"
 Spring Boot,Platforms,Hold,FALSE,<p>SPRINGBOOT + GOOD mature - BAD invasive</p>
 Payara,Platforms,Hold,FALSE,"<p>PAYARA
  + GOOD: Seems least invasive and well supported
  - PAYARA-FAIL: Ear is detected as Ejb not EnterpriseApplication </p>"
-Quarkus,Platforms,Assess,TRUE,"<p>QUARKUS + GOOD: Similar to SpringBoot, Create native app support, DX - BAD Unlikely supports EARs, invasive functional tests, new</p>"
-QueryDSL,languages-and-frameworks,Trial,TRUE,<p>Allows for the generation of type-safe queries in a syntax similar to SQL</p>
-Docker,Tools,Adopted,FALSE,<p>Container platform</p>
-Kubernetes,Tools,Hold,TRUE,"<p>System for automating deployment, scaling, and management of containerized applications</p>"
-Harbor,Tools,Hold,TRUE,<p>Open source container image registry</p>
-Rancher,Tools,Hold,TRUE,<p>Container software stack</p>
-Guacamole,Tools,Hold,TRUE,<p>Clientless remote desktop gateway</p>
+Quarkus,Platforms,Assess,FALSE,"<p>QUARKUS + GOOD: Similar to SpringBoot, Create native app support, DX - BAD Unlikely supports EARs, invasive functional tests, new</p>"
+QueryDSL,languages-and-frameworks,Trial,FALSE,<p>Allows for the generation of type-safe queries in a syntax similar to SQL</p>
+Docker,Tools,Hold,FALSE,<p>Container platform</p>
+Kubernetes,Tools,Hold,FALSE,"<p>System for automating deployment, scaling, and management of containerized applications</p>"
+Harbor,Tools,Hold,FALSE,<p>Open source container image registry</p>
+Rancher,Tools,Hold,FALSE,<p>Container software stack</p>
+Guacamole,Tools,Hold,FALSE,<p>Clientless remote desktop gateway</p>
 Oracle WebLogic,Platforms,Hold,FALSE,<p>Application server</p>
 EclipseLink,Platforms,Hold,FALSE,<p>Java persistence solution</p>
 Make it Painful (Daily),Techniques,Adopted,FALSE,"<p><strong><a href=""https://www.mountaingoatsoftware.com/blog/ten-tips-for-more-effective-daily-scrums"">Make it Painful</a></strong>  Using environment like freezing balcony or other methods enough to keep us aware when we go on and ramble for too long.</p>"
 Adaptive Scrumban,Techniques,Adopted,FALSE,"<p> Leaving intentionally time for frequent and unexpected work items in sprint planning. Like in <strong><a href=""https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrumban"">Scrumban</a></strong></p>"
-Grafana,Tools,Assess,TRUE,"<p> <strong><a href=""https://grafana.com/"">Grafana</a></strong>, not reinventing the wheel for business and IT -reporting and alarming features</p>"
-TimescaleDB,Platforms,Hold,TRUE,"<p> <strong><a href=""https://labs.consol.de/development/2018/10/31/introduction-to-timescale-db.html"">TimescaleDB</a></strong>, please check also flow chart</p>"
-Sourcetree,Tools,Hold,TRUE,"<p> <strong><a href=""https://www.sourcetreeapp.com/"">Sourcetree</a>Not fast enough</strong></p>"
+Grafana,Tools,Assess,FALSE,"<p> <strong><a href=""https://grafana.com/"">Grafana</a></strong>, not reinventing the wheel for business and IT -reporting and alarming features</p>"
+TimescaleDB,Platforms,Hold,FALSE,"<p> <strong><a href=""https://labs.consol.de/development/2018/10/31/introduction-to-timescale-db.html"">TimescaleDB</a></strong>, please check also flow chart</p>"
+Sourcetree,Tools,Hold,FALSE,"<p> <strong><a href=""https://www.sourcetreeapp.com/"">Sourcetree</a>Not fast enough</strong></p>"
 GitKraken,Tools,Adopted,FALSE,"<p> <strong><a href=""https://www.gitkraken.com/"">GitKraken</a>In use, parallel with GIT bash</strong></p>"
+WebSocket,languages-and-frameworks,Hold,TRUE,"<p>WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection.</p>"
